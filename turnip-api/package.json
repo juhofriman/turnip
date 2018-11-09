@@ -1,0 +1,18 @@
+{
+  "name": "turnip-api",
+  "version": "1.0.0",
+  "description": "It's a demonstration api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juho Friman <juho.friman@solita.fi>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.3",
+    "express-cluster": "0.0.5",
+    "fuse.js": "^3.2.1",
+    "request": "^2.88.0",
+    "underscore-node": "^0.1.2"
+  }
+}
